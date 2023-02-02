@@ -1,0 +1,22 @@
+{
+  "name": "dotnet-samples",
+  "version": "1.0.0",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "description": "This is sample .NET solution for integrating with [Universal Agent](https://support.qasymphony.com/hc/en-us/articles/360004704172-Universal-Agent-Overview). It includes:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbzioui/dotnet-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbzioui/dotnet-samples/issues"
+  },
+  "homepage": "https://github.com/fbzioui/dotnet-samples#readme"
+}
